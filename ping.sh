@@ -1,3 +1,6 @@
+# By: Ubermensch
+# A simple script to scan a local network.
+
 #!/bin/bash
 
 if [ "$1" == "" ]

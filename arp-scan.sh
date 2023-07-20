@@ -1,5 +1,7 @@
+# By: Ubermensch
+# A simple script to scan a local network using arp-scan.
+
 #!/bin/bash
-#By: Ubermensch
 
 if [ "$1" == "" ]
 	then
